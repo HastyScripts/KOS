@@ -1,4 +1,4 @@
-const guilds = {
+{
   garganta: {
   leader: "Unknown",
   lieutenants: 0,
@@ -63,13 +63,4 @@ const guilds = {
   bounty: 2,
   kosTime: "2026-06-12T17:00:00Z",
 },
-};
-
-const DEFAULT = {
-  leader: "Unknown",
-  lieutenants: 0,
-  officers: 0,
-  rooms: 0,
-  bounty: 1,
-  kosTime: "2026-06-12T17:00:00Z",
 };
