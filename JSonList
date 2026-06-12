@@ -1,5 +1,5 @@
 {
-  "garganta": {
+  "Garganta": {
     "leader": "Unknown",
     "lieutenants": 0,
     "officers": 0,
@@ -7,7 +7,7 @@
     "bounty": 3,
     "kosTime": "2026-06-12T17:00:00Z"
   },
-  "gdgmx_48": {
+  "GDgmx_48": {
     "leader": "-",
     "lieutenants": 0,
     "officers": 0,
@@ -15,7 +15,7 @@
     "bounty": 3,
     "kosTime": "2026-06-12T17:00:00Z"
   },
-  "aneurysm": {
+  "Aneurysm": {
     "leader": "Unknown",
     "lieutenants": 0,
     "officers": 0,
@@ -23,7 +23,7 @@
     "bounty": 3,
     "kosTime": "2026-06-12T17:00:00Z"
   },
-  "purgers": {
+  "Purgers": {
     "leader": "Unknown",
     "lieutenants": 0,
     "officers": 0,
@@ -31,7 +31,7 @@
     "bounty": 3,
     "kosTime": "2026-06-12T17:00:00Z"
   },
-  "decimate": {
+  "Decimate": {
     "leader": "Unknown",
     "lieutenants": 0,
     "officers": 0,
@@ -39,7 +39,7 @@
     "bounty": 2,
     "kosTime": "2026-06-12T17:00:00Z"
   },
-  "babacik": {
+  "Babacik": {
     "leader": "Unknown",
     "lieutenants": 0,
     "officers": 0,
@@ -47,7 +47,7 @@
     "bounty": 2,
     "kosTime": "2026-06-12T17:00:00Z"
   },
-  "kesha": {
+  "Kesha": {
     "leader": "Unknown",
     "lieutenants": 0,
     "officers": 0,
@@ -55,7 +55,7 @@
     "bounty": 2,
     "kosTime": "2026-06-12T17:00:00Z"
   },
-  "nyserix": {
+  "Nyserix": {
     "leader": "Unknown",
     "lieutenants": 0,
     "officers": 0,
