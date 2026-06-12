@@ -1,0 +1,66 @@
+{
+  "garganta": {
+    "leader": "Unknown",
+    "lieutenants": 0,
+    "officers": 0,
+    "rooms": 0,
+    "bounty": 3,
+    "kosTime": "2026-06-12T17:00:00Z"
+  },
+  "gdgmx_48": {
+    "leader": "-",
+    "lieutenants": 0,
+    "officers": 0,
+    "rooms": 0,
+    "bounty": 3,
+    "kosTime": "2026-06-12T17:00:00Z"
+  },
+  "aneurysm": {
+    "leader": "Unknown",
+    "lieutenants": 0,
+    "officers": 0,
+    "rooms": 0,
+    "bounty": 3,
+    "kosTime": "2026-06-12T17:00:00Z"
+  },
+  "purgers": {
+    "leader": "Unknown",
+    "lieutenants": 0,
+    "officers": 0,
+    "rooms": 0,
+    "bounty": 3,
+    "kosTime": "2026-06-12T17:00:00Z"
+  },
+  "decimate": {
+    "leader": "Unknown",
+    "lieutenants": 0,
+    "officers": 0,
+    "rooms": 0,
+    "bounty": 2,
+    "kosTime": "2026-06-12T17:00:00Z"
+  },
+  "babacik": {
+    "leader": "Unknown",
+    "lieutenants": 0,
+    "officers": 0,
+    "rooms": 0,
+    "bounty": 2,
+    "kosTime": "2026-06-12T17:00:00Z"
+  },
+  "kesha": {
+    "leader": "Unknown",
+    "lieutenants": 0,
+    "officers": 0,
+    "rooms": 0,
+    "bounty": 2,
+    "kosTime": "2026-06-12T17:00:00Z"
+  },
+  "nyserix": {
+    "leader": "Unknown",
+    "lieutenants": 0,
+    "officers": 0,
+    "rooms": 0,
+    "bounty": 2,
+    "kosTime": "2026-06-12T17:00:00Z"
+  }
+}
