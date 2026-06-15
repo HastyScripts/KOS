@@ -66,8 +66,8 @@
   "The NHK": {
     "leader": "@meme.bg2.0",
     "lieutenants": 0,
-    "officers": 0,
-    "rooms": 0,
+    "officers": 2,
+    "rooms": 10,
     "bounty": 1,
     "kosTime": "2026-06-15T17:00:00Z"
   },
