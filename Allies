@@ -1,0 +1,74 @@
+{
+  "Kawaii Kings": {
+    "leader": "Unknown",
+    "lieutenants": 0,
+    "officers": 0,
+    "rooms": 0,
+    "bounty": 3,
+    "kosTime": "2026-06-12T17:00:00Z"
+  },
+  "Chromatica": {
+    "leader": "-",
+    "lieutenants": 0,
+    "officers": 0,
+    "rooms": 0,
+    "bounty": 2,
+    "kosTime": "2026-06-12T17:00:00Z"
+  },
+  "Letz": {
+    "leader": "-",
+    "lieutenants": 0,
+    "officers": 0,
+    "rooms": 0,
+    "bounty": 2,
+    "kosTime": "2026-06-14T09:30:00Z"
+  },
+  "After Tide": {
+    "leader": "Unknown",
+    "lieutenants": 0,
+    "officers": 0,
+    "rooms": 0,
+    "bounty": 2,
+    "kosTime": "2026-06-12T17:00:00Z"
+  },
+  "Sentience": {
+    "leader": "Unknown",
+    "lieutenants": 0,
+    "officers": 0,
+    "rooms": 0,
+    "bounty": 2,
+    "kosTime": "2026-06-12T17:00:00Z"
+  },
+  "Mercer": {
+    "leader": "Unknown",
+    "lieutenants": 0,
+    "officers": 0,
+    "rooms": 0,
+    "bounty": 1,
+    "kosTime": "2026-06-12T17:00:00Z"
+  },
+  "Skyshatter": {
+    "leader": "Unknown",
+    "lieutenants": 0,
+    "officers": 0,
+    "rooms": 0,
+    "bounty": 1,
+    "kosTime": "2026-06-12T17:00:00Z"
+  },
+  "Chromies": {
+    "leader": "Unknown",
+    "lieutenants": 0,
+    "officers": 0,
+    "rooms": 0,
+    "bounty": 1,
+    "kosTime": "2026-06-12T17:00:00Z"
+  },
+  "The NHK": {
+    "leader": "@meme.bg2.0",
+    "lieutenants": 0,
+    "officers": 0,
+    "rooms": 0,
+    "bounty": 1,
+    "kosTime": "2026-06-15T17:00:00Z"
+  },
+}
