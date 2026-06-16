@@ -1,9 +1,9 @@
 {
   "Kawaii Kings": {
     "leader": "Unknown",
-    "lieutenants": 0,
-    "officers": 0,
-    "rooms": 0,
+    "lieutenants": 4,
+    "officers": 19,
+    "rooms": 9,
     "bounty": 3,
     "kosTime": "2026-06-12T17:00:00Z"
   },
@@ -41,9 +41,9 @@
   },
   "Sentience": {
     "leader": "Unknown",
-    "lieutenants": 0,
-    "officers": 0,
-    "rooms": 0,
+    "lieutenants": 3,
+    "officers": 12,
+    "rooms": 10,
     "bounty": 2,
     "kosTime": "2026-06-12T17:00:00Z"
   },
