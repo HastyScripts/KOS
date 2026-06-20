@@ -5,7 +5,8 @@
     "officers": 19,
     "rooms": 9,
     "bounty": 3,
-    "kosTime": "2026-06-12T17:00:00Z"
+    "kosTime": "2026-06-12T17:00:00Z",
+"isUser": 0
   },
   "Chromatica": {
     "leader": "-",
@@ -13,7 +14,8 @@
     "officers": 0,
     "rooms": 0,
     "bounty": 2,
-    "kosTime": "2026-06-12T17:00:00Z"
+    "kosTime": "2026-06-12T17:00:00Z",
+"isUser": 0
   },
   "Letz": {
     "leader": "-",
@@ -21,7 +23,8 @@
     "officers": 0,
     "rooms": 0,
     "bounty": 2,
-    "kosTime": "2026-06-14T09:30:00Z"
+    "kosTime": "2026-06-14T09:30:00Z",
+"isUser": 0
   },
   "After Tide": {
     "leader": "Unknown",
@@ -29,7 +32,8 @@
     "officers": 0,
     "rooms": 0,
     "bounty": 2,
-    "kosTime": "2026-06-12T17:00:00Z"
+    "kosTime": "2026-06-12T17:00:00Z",
+"isUser": 0
   },
   "Sentience": {
     "leader": "Unknown",
@@ -37,7 +41,8 @@
     "officers": 12,
     "rooms": 10,
     "bounty": 2,
-    "kosTime": "2026-06-12T17:00:00Z"
+    "kosTime": "2026-06-12T17:00:00Z",
+"isUser": 0
   },
   "Mercer": {
     "leader": "Unknown",
@@ -45,7 +50,8 @@
     "officers": 0,
     "rooms": 0,
     "bounty": 1,
-    "kosTime": "2026-06-12T17:00:00Z"
+    "kosTime": "2026-06-12T17:00:00Z",
+"isUser": 0
   },
   "Vyinx": {
     "leader": "Unknown",
@@ -53,7 +59,8 @@
     "officers": 0,
     "rooms": 0,
     "bounty": 1,
-    "kosTime": "2026-06-12T17:00:00Z"
+    "kosTime": "2026-06-12T17:00:00Z",
+"isUser": 0
   },
   "The NHK": {
     "leader": "@meme.bg2.0",
@@ -61,6 +68,25 @@
     "officers": 2,
     "rooms": 10,
     "bounty": 1,
-    "kosTime": "2026-06-15T17:00:00Z"
+    "kosTime": "2026-06-15T17:00:00Z",
+"isUser": 0
+  },
+  "Monarch's": {
+    "leader": "Unknown",
+    "lieutenants": 0,
+    "officers": 0,
+    "rooms": 0,
+    "bounty": 0,
+    "kosTime": "2026-06-12T17:00:00Z",
+"isUser": 0
+  },
+  "Nazar": {
+    "leader": "Unknown",
+    "lieutenants": 0,
+    "officers": 0,
+    "rooms": 0,
+    "bounty": 0,
+    "kosTime": "2026-06-12T17:00:00Z",
+"isUser": 0
   }
 }
