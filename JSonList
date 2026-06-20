@@ -1,18 +1,58 @@
 {
-  "GDgmx_48": {
-    "leader": "-",
+  "Garganta": {
+    "leader": "pas_brotherss",
+    "lieutenants": 5,
+    "officers": 42,
+    "rooms": 0,
+    "bounty": 3,
+    "kosTime": "2026-06-12T17:00:00Z"
+  },
+  "Aneurysm": {
+    "leader": "Unknown",
     "lieutenants": 0,
     "officers": 0,
     "rooms": 0,
     "bounty": 3,
     "kosTime": "2026-06-12T17:00:00Z"
   },
-  "AcrilIimonation": {
-    "leader": "-",
+  "Purgers": {
+    "leader": "Unknown",
+    "lieutenants": 0,
+    "officers": 0,
+    "rooms": 0,
+    "bounty": 3,
+    "kosTime": "2026-06-12T17:00:00Z"
+  },
+  "Decimate": {
+    "leader": "Unknown",
     "lieutenants": 0,
     "officers": 0,
     "rooms": 0,
     "bounty": 2,
-    "kosTime": "2026-06-14T09:30:00Z"
+    "kosTime": "2026-06-12T17:00:00Z"
+  },
+  "Babacik": {
+    "leader": "Unknown",
+    "lieutenants": 0,
+    "officers": 0,
+    "rooms": 0,
+    "bounty": 2,
+    "kosTime": "2026-06-12T17:00:00Z"
+  },
+  "Kesha": {
+    "leader": "Unknown",
+    "lieutenants": 0,
+    "officers": 0,
+    "rooms": 0,
+    "bounty": 2,
+    "kosTime": "2026-06-12T17:00:00Z"
+  },
+  "Nyserix": {
+    "leader": "Unknown",
+    "lieutenants": 0,
+    "officers": 0,
+    "rooms": 0,
+    "bounty": 2,
+    "kosTime": "2026-06-12T17:00:00Z"
   }
 }
