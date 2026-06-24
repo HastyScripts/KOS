@@ -44,6 +44,15 @@
     "kosTime": "2026-06-12T17:00:00Z",
 "isUser": 0
   },
+  "Kawaii Kings": {
+    "leader": "Unknown",
+    "lieutenants": 4,
+    "officers": 19,
+    "rooms": 9,
+    "bounty": 2,
+    "kosTime": "2026-06-12T17:00:00Z",
+"isUser": 0
+  },
   "Mercer": {
     "leader": "Unknown",
     "lieutenants": 0,
@@ -69,15 +78,6 @@
     "rooms": 10,
     "bounty": 1,
     "kosTime": "2026-06-15T17:00:00Z",
-"isUser": 0
-  },
-  "Kawaii Kings": {
-    "leader": "Unknown",
-    "lieutenants": 4,
-    "officers": 19,
-    "rooms": 9,
-    "bounty": 1,
-    "kosTime": "2026-06-12T17:00:00Z",
 "isUser": 0
   },
   "Monarch's": {
