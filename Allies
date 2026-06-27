@@ -1,4 +1,13 @@
 {
+  "Kitaro": {
+    "leader": "-",
+    "lieutenants": 0,
+    "officers": 0,
+    "rooms": 0,
+    "bounty": 3,
+    "kosTime": "2026-06-23T17:00:00Z",
+"isUser": 0
+  },
   "Chromies": {
     "leader": "-",
     "lieutenants": 0,
