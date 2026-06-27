@@ -1,13 +1,4 @@
 {
-  "Chromatica": {
-    "leader": "-",
-    "lieutenants": 0,
-    "officers": 0,
-    "rooms": 0,
-    "bounty": 2,
-    "kosTime": "2026-06-12T17:00:00Z",
-"isUser": 0
-  },
   "Chromies": {
     "leader": "-",
     "lieutenants": 0,
@@ -27,6 +18,15 @@
 "isUser": 0
   },
   "After Tide": {
+    "leader": "Unknown",
+    "lieutenants": 0,
+    "officers": 0,
+    "rooms": 0,
+    "bounty": 2,
+    "kosTime": "2026-06-12T17:00:00Z",
+"isUser": 0
+  },
+  "Clarity": {
     "leader": "Unknown",
     "lieutenants": 0,
     "officers": 0,
